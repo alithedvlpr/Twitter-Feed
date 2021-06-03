@@ -1,0 +1,29 @@
+.icon .fa-twitter:after{
+	content: "108";
+	position: absolute;
+    top: 6px;
+    right: 6px;
+    font-size: 16px;
+    color: #27839B;
+
+}
+
+#elementor-panel__editor__help__link:before{
+	content: "108";
+	font-size: 16px;
+	margin-right: 5px;
+	color: #27839B;
+}
+
+.shape-circle img{
+	border-radius: 50%;
+}
+
+.twitter-icon{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.tweet-feed-date{
+	padding-top: 8px;
+}
